@@ -128,9 +128,8 @@ Welcome to my GitHub profile! I'm passionate about building creative tech soluti
 <div align="center">
   
   <!-- Project Cards -->
-  <a href="https://github.com/kavinvikraman/moms-tuition-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kavinvikraman&repo=moms-tuition-app&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="moms-tuition-app"/>
-  </a>
+  
+    
   <a href="https://github.com/kavinvikraman/sweet-bakes-cart-magic">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kavinvikraman&repo=sweet-bakes-cart-magic&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="sweet-bakes-cart-magic"/>
   </a>
