@@ -8,7 +8,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%91%8B+Hi%2C+I'm+Kavin+Vikraman!;%F0%9F%92%BB+Building+Creative+Tech+Solutions;%F0%9F%9A%80+Passionate+About+Web+Development;%F0%9F%8C%B1+Always+Learning+New+Technologies" alt="Typing SVG" /></a>
 </div>
 
-<!-- Visitor Counter -->
+
 
 
 <br/>
@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm passionate about building creative tech soluti
 - 🛠️ Love working with **React**, **Node.js**, and modern web technologies
 - 🎨 Building projects that blend **functionality & design**
 - 🌱 Currently exploring: **Next.js**, **TypeScript**, and **AI tools**
-- 🎯 2024 Goals: Contribute more to Open Source projects
+- 🎯 2026 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love turning coffee into code! ☕
 
 <br clear="right"/>
@@ -100,8 +100,8 @@ Welcome to my GitHub profile! I'm passionate about building creative tech soluti
 
 ---
 
-<!-- GitHub Stats Section -->
-## 📈 GitHub Stats
+
+
 
 <div align="center">
   
@@ -109,17 +109,7 @@ Welcome to my GitHub profile! I'm passionate about building creative tech soluti
 
 <div align="center">
   
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavinvikraman&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" alt="GitHub Streak"/>
   
-</div>
-
-<div align="center">
-  
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=kavinvikraman&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies"/>
-  
-</div>
 
 ---
 
@@ -154,7 +144,7 @@ Welcome to my GitHub profile! I'm passionate about building creative tech soluti
 
 | 🚀 Project | 📝 Description | 🛠️ Tech Stack |
 |:-----------|:---------------|:--------------|
-| [![moms-tuition-app](https://img.shields.io/badge/🎓-moms--tuition--app-F85D7F?style=flat-square)](https://github.com/kavinvikraman/moms-tuition-app) | A platform to connect learners with tutors | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) |
+ ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) |
 | [![sweet-bakes-cart-magic](https://img.shields.io/badge/🧁-sweet--bakes--cart--magic-F85D7F?style=flat-square)](https://github.com/kavinvikraman/sweet-bakes-cart-magic) | E-commerce app for bakery delights | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Redux](https://img.shields.io/badge/-Redux-593D88?style=flat-square&logo=redux&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
 | [![motion-pixel-vibe](https://img.shields.io/badge/🎨-motion--pixel--vibe-F85D7F?style=flat-square)](https://github.com/kavinvikraman/motion-pixel-vibe) | Creative animations & pixel art gallery | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Framer](https://img.shields.io/badge/-Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white) |
 
