@@ -9,10 +9,7 @@
 </div>
 
 <!-- Visitor Counter -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kavinvikraman&style=for-the-badge&color=ff69b4&label=Profile+Views" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/kavinvikraman?style=for-the-badge&color=blue&label=Followers" alt="Followers"/>
-</div>
+
 
 <br/>
 
@@ -108,13 +105,7 @@ Welcome to my GitHub profile! I'm passionate about building creative tech soluti
 
 <div align="center">
   
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=kavinvikraman&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="180" alt="GitHub Stats"/>
-  
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavinvikraman&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F" height="180" alt="Top Languages"/>
-  
-</div>
+
 
 <div align="center">
   
