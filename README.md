@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I'm passionate about building creative tech soluti
 🔭 Working on      →  Building scalable web applications
 📚 Learning        →  Next.js 14, TypeScript, AI/ML integrations
 👯 Collaborating   →  Open-source projects & innovative startups
-🤔 Exploring       →  Cloud technologies & DevOps practices
+
 ```
 
 ---
@@ -113,11 +113,7 @@ Welcome to my GitHub profile! I'm passionate about building creative tech soluti
 
 ---
 
-<!-- Activity Graph -->
-## 📊 Contribution Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kavinvikraman&theme=radical&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF" alt="Activity Graph" width="100%"/>
 </div>
 
 ---
@@ -127,27 +123,11 @@ Welcome to my GitHub profile! I'm passionate about building creative tech soluti
 
 <div align="center">
   
-  <!-- Project Cards -->
   
-    
-  <a href="https://github.com/kavinvikraman/sweet-bakes-cart-magic">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kavinvikraman&repo=sweet-bakes-cart-magic&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="sweet-bakes-cart-magic"/>
-  </a>
-  <a href="https://github.com/kavinvikraman/motion-pixel-vibe">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kavinvikraman&repo=motion-pixel-vibe&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="motion-pixel-vibe"/>
-  </a>
   
 </div>
 
-### 📋 Project Details
 
-| 🚀 Project | 📝 Description | 🛠️ Tech Stack |
-|:-----------|:---------------|:--------------|
- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) |
-| [![sweet-bakes-cart-magic](https://img.shields.io/badge/🧁-sweet--bakes--cart--magic-F85D7F?style=flat-square)](https://github.com/kavinvikraman/sweet-bakes-cart-magic) | E-commerce app for bakery delights | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Redux](https://img.shields.io/badge/-Redux-593D88?style=flat-square&logo=redux&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
-| [![motion-pixel-vibe](https://img.shields.io/badge/🎨-motion--pixel--vibe-F85D7F?style=flat-square)](https://github.com/kavinvikraman/motion-pixel-vibe) | Creative animations & pixel art gallery | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Framer](https://img.shields.io/badge/-Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white) |
-
----
 
 <!-- Achievements Section -->
 ## 🏆 Achievements & Certifications
