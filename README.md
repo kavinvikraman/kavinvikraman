@@ -109,14 +109,6 @@ Welcome to my GitHub profile! I'm passionate about building creative tech soluti
 
 <div align="center">
   
-  
-
----
-
-
-</div>
-
----
 
 <!-- Featured Projects Section -->
 ## 🌟 Featured Projects
@@ -129,20 +121,8 @@ Welcome to my GitHub profile! I'm passionate about building creative tech soluti
 
 
 
-<!-- Achievements Section -->
-## 🏆 Achievements & Certifications
 
-<div align="center">
 
-| 🎖️ Achievement | 📅 Year | 🔗 Credential |
-|:--------------|:--------|:-------------|
-| 🚀 *Coming Soon* | - | - |
-
-> 💡 *This section will be updated with certifications and achievements!*
-
-</div>
-
----
 
 <!-- Fun Facts Section -->
 ## 💡 Fun Facts
@@ -175,16 +155,16 @@ const kavin = {
 
 <div align="center">
   
-  <a href="https://www.linkedin.com/in/kavinvikraman" target="_blank">
+  <a href="www.linkedin.com/in/kavin-vikraman-777572297" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://kavinvikraman.dev" target="_blank">
+  <a href="https://portfolio-665eb.web.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://github.com/kavinvikraman" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:contact@kavinvikraman.dev">
+  <a href="mailto:contact@kavinvikraman06@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   
@@ -196,16 +176,7 @@ const kavin = {
   <i>💬 Feel free to reach out for collaborations or just a friendly chat!</i>
 </div>
 
----
 
-<!-- Latest Blog Posts Section -->
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-> 🔜 *Coming Soon! Stay tuned for exciting content about web development, tech insights, and more!*
-<!-- BLOG-POST-LIST:END -->
-
----
 
 <!-- Footer -->
 <div align="center">
