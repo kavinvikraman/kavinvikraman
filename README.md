@@ -120,35 +120,6 @@ Welcome to my GitHub profile! I'm passionate about building creative tech soluti
 
 
 
-
-
-
-<!-- Fun Facts Section -->
-## 💡 Fun Facts
-
-```javascript
-const kavin = {
-    pronouns: "He/Him",
-    code: ["JavaScript", "TypeScript", "Python", "HTML", "CSS"],
-    askMeAbout: ["Web Dev", "Tech", "React", "Node.js"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js"],
-            css: ["Tailwind", "Bootstrap", "Styled Components"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express"]
-        },
-        databases: ["MongoDB", "PostgreSQL", "Firebase"],
-        misc: ["Git", "Docker", "REST APIs"]
-    },
-    currentFocus: "Building scalable web applications",
-    funFact: "I believe bugs are just undocumented features! 🐛"
-};
-```
-
----
-
 <!-- Connect Section -->
 ## 📫 Connect With Me
 
